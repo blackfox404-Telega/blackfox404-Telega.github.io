@@ -1,4 +1,4 @@
-<img source='banner.png'>
+!banner(banner.png)
 
 owner: t.me/black_fox404
 site version: 3.0
